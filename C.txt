@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hallo Apfel
+=======
+>>>>>>> refs/remotes/origin/main
